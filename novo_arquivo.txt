@@ -1,0 +1,19 @@
+vou colocar aqui algumas links que encontrei
+
+http://www.libertadyorganizacion.org/o-que-e-um-metodo-de-construtor-em-java.html
+
+e aqui alguns canais do youtube.
+
+http://www.youtube.com/watch?v=MTGkJEkzDjM&list=PLqUxvkIqs5tOzTB0GXP60DTI8hEkjnm1E
+
+http://www.youtube.com/channel/UC_8SElusYdENzVw1Fsk0Nbg
+
+https://www.youtube.com/user/AllTutorials4U?feature=watch
+
+
+Lembrando que o Alan disse que nos ensinaria android e os canais que passei focam em swing,para conhecimento é legal,mas eu não sei dizer qual diferença,claro,falando de programação e não de layout.
+
+E pra quem esta achando desenvolvimento difícil,vou deixar uma palestra do Javamem que eu gostei muito.
+É um pouco longa.
+
+http://www.youtube.com/watch?v=sRlQCiEaBpk 
