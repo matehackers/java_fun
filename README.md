@@ -1,9 +1,6 @@
-java_fun
-========
+Sobre 
+=====
 
-Arquivos para brincar com java
+Material para quem está começando a programar em java.
 
-Editando local eeee
-
-
-So much fun!111
+Este material é produzido durante as oficinas no mate que tem acontecido nas noites de segundas-feira.
